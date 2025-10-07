@@ -1,0 +1,150 @@
+{
+  "title": "cats in the kitchen",
+  "description": "Learn how to safely and effectively manage your cat's behavior in the kitchen environment, covering topics from nutrition and safety hazards to training and enrichment.",
+  "modules": [
+    {
+      "title": "Understanding Cat Behavior and Kitchen Safety",
+      "description": "This module introduces fundamental cat behaviors, common kitchen hazards, and the importance of creating a safe environment.",
+      "topics": [
+        { "title": "Overview", "description": "Course introduction and objectives.", "path": "README.md", "type": "instruction", "state": "stub" },
+        { "title": "Decoding Cat Body Language", "description": "Learn to interpret your cat's body language to understand their needs and intentions.", "path": "instruction/decoding-cat-body-language/decoding-cat-body-language.md", "type": "instruction", "state": "stub" },
+        { "title": "Common Kitchen Hazards for Cats", "description": "Identify potential dangers like toxic foods, sharp objects, and hot surfaces.", "path": "instruction/common-kitchen-hazards-for-cats/common-kitchen-hazards-for-cats.md", "type": "instruction", "state": "stub" },
+        { "title": "Creating a Cat-Safe Zone", "description": "Designate a safe space in or near the kitchen for your cat to retreat to.", "path": "instruction/creating-a-cat-safe-zone/creating-a-cat-safe-zone.md", "type": "instruction", "state": "stub" },
+        { "title": "Understanding Feline Senses", "description": "Explore how cats perceive the kitchen environment through their senses.", "path": "instruction/understanding-feline-senses/understanding-feline-senses.md", "type": "instruction", "state": "stub" },
+        { "title": "The Importance of Environmental Enrichment", "description": "Discuss ways to stimulate your cat's mind and body in the kitchen area.", "path": "instruction/the-importance-of-environmental-enrichment/the-importance-of-environmental-enrichment.md", "type": "instruction", "state": "stub" },
+        { "title": "Basic Cat First Aid", "description": "Learn essential first aid techniques for common kitchen-related cat injuries.", "path": "instruction/basic-cat-first-aid/basic-cat-first-aid.md", "type": "instruction", "state": "stub" },
+        { "title": "Preventing Counter Surfing", "description": "Understand why cats jump on counters and strategies to discourage this behavior.", "path": "instruction/preventing-counter-surfing/preventing-counter-surfing.md", "type": "instruction", "state": "stub" },
+        { "title": "Recognizing Signs of Stress", "description": "Learn to identify signs of stress in your cat and address the underlying causes.", "path": "instruction/recognizing-signs-of-stress/recognizing-signs-of-stress.md", "type": "instruction", "state": "stub" },
+        { "title": "Safe Cleaning Products for Cats", "description": "Identify cleaning products that are safe to use around cats in the kitchen.", "path": "instruction/safe-cleaning-products-for-cats/safe-cleaning-products-for-cats.md", "type": "instruction", "state": "stub" },
+        { "title": "Dealing with Kitchen-Related Phobias", "description": "Address common kitchen phobias in cats, such as fear of appliances.", "path": "instruction/dealing-with-kitchen-related-phobias/dealing-with-kitchen-related-phobias.md", "type": "instruction", "state": "stub" },
+        { "title": "Safe Food Storage Practices", "description": "Learn to store food safely to prevent your cat from accessing it.", "path": "instruction/safe-food-storage-practices/safe-food-storage-practices.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Nutrition and Feeding Strategies",
+      "description": "Explore optimal cat nutrition, appropriate feeding schedules, and how to manage food-related behaviors in the kitchen.",
+      "topics": [
+        { "title": "Understanding Cat Nutritional Needs", "description": "Learn about the essential nutrients cats require for optimal health.", "path": "instruction/understanding-cat-nutritional-needs/understanding-cat-nutritional-needs.md", "type": "instruction", "state": "stub" },
+        { "title": "Choosing the Right Cat Food", "description": "Explore different types of cat food and how to select the best option for your cat.", "path": "instruction/choosing-the-right-cat-food/choosing-the-right-cat-food.md", "type": "instruction", "state": "stub" },
+        { "title": "Establishing a Feeding Schedule", "description": "Create a consistent feeding schedule that meets your cat's needs.", "path": "instruction/establishing-a-feeding-schedule/establishing-a-feeding-schedule.md", "type": "instruction", "state": "stub" },
+        { "title": "Portion Control and Weight Management", "description": "Learn how to control portion sizes and manage your cat's weight.", "path": "instruction/portion-control-and-weight-management/portion-control-and-weight-management.md", "type": "instruction", "state": "stub" },
+        { "title": "Safe Treats and Human Food", "description": "Identify safe treats and human foods to offer your cat in moderation.", "path": "instruction/safe-treats-and-human-food/safe-treats-and-human-food.md", "type": "instruction", "state": "stub" },
+        { "title": "Dealing with Picky Eaters", "description": "Strategies for encouraging picky eaters to eat a balanced diet.", "path": "instruction/dealing-with-picky-eaters/dealing-with-picky-eaters.md", "type": "instruction", "state": "stub" },
+        { "title": "Food Allergies and Sensitivities", "description": "Recognize signs of food allergies and sensitivities in cats.", "path": "instruction/food-allergies-and-sensitivities/food-allergies-and-sensitivities.md", "type": "instruction", "state": "stub" },
+        { "title": "Managing Food Aggression", "description": "Address food aggression issues between cats or towards humans.", "path": "instruction/managing-food-aggression/managing-food-aggression.md", "type": "instruction", "state": "stub" },
+        { "title": "The Importance of Fresh Water", "description": "Ensure your cat has access to fresh, clean water at all times.", "path": "instruction/the-importance-of-fresh-water/the-importance-of-fresh-water.md", "type": "instruction", "state": "stub" },
+        { "title": "Using Puzzle Feeders", "description": "Introduce puzzle feeders to slow down eating and provide mental stimulation.", "path": "instruction/using-puzzle-feeders/using-puzzle-feeders.md", "type": "instruction", "state": "stub" },
+        { "title": "Raw Food Diets for Cats", "description": "Discuss the pros and cons of raw food diets for cats.", "path": "instruction/raw-food-diets-for-cats/raw-food-diets-for-cats.md", "type": "instruction", "state": "stub" },
+        { "title": "Treating Obesity in Cats", "description": "Strategies for helping overweight cats lose weight safely.", "path": "instruction/treating-obesity-in-cats/treating-obesity-in-cats.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Training and Positive Reinforcement",
+      "description": "Learn how to use positive reinforcement techniques to train your cat and modify unwanted behaviors in the kitchen.",
+      "topics": [
+        { "title": "Understanding Positive Reinforcement", "description": "Learn the principles of positive reinforcement training.", "path": "instruction/understanding-positive-reinforcement/understanding-positive-reinforcement.md", "type": "instruction", "state": "stub" },
+        { "title": "Clicker Training Basics", "description": "Introduce clicker training as a powerful tool for communication.", "path": "instruction/clicker-training-basics/clicker-training-basics.md", "type": "instruction", "state": "stub" },
+        { "title": "Teaching Basic Commands", "description": "Train your cat to perform basic commands like 'sit' and 'stay'.", "path": "instruction/teaching-basic-commands/teaching-basic-commands.md", "type": "instruction", "state": "stub" },
+        { "title": "Target Training", "description": "Use target training to guide your cat's movements.", "path": "instruction/target-training/target-training.md", "type": "instruction", "state": "stub" },
+        { "title": "Redirecting Unwanted Behaviors", "description": "Redirect your cat's attention from unwanted behaviors to more desirable ones.", "path": "instruction/redirecting-unwanted-behaviors/redirecting-unwanted-behaviors.md", "type": "instruction", "state": "stub" },
+        { "title": "Using Rewards Effectively", "description": "Learn how to use rewards to motivate your cat during training.", "path": "instruction/using-rewards-effectively/using-rewards-effectively.md", "type": "instruction", "state": "stub" },
+        { "title": "Shaping and Luring", "description": "Use shaping and luring techniques to teach complex behaviors.", "path": "instruction/shaping-and-luring/shaping-and-luring.md", "type": "instruction", "state": "stub" },
+        { "title": "Addressing Kitchen-Specific Challenges", "description": "Apply training techniques to address specific kitchen-related behavior problems.", "path": "instruction/addressing-kitchen-specific-challenges/addressing-kitchen-specific-challenges.md", "type": "instruction", "state": "stub" },
+        { "title": "Consistency and Patience", "description": "Emphasize the importance of consistency and patience in training.", "path": "instruction/consistency-and-patience/consistency-and-patience.md", "type": "instruction", "state": "stub" },
+        { "title": "Avoiding Punishment", "description": "Explain why punishment is ineffective and harmful.", "path": "instruction/avoiding-punishment/avoiding-punishment.md", "type": "instruction", "state": "stub" },
+        { "title": "Using Environmental Modifications", "description": "Modify the kitchen environment to discourage unwanted behaviors.", "path": "instruction/using-environmental-modifications/using-environmental-modifications.md", "type": "instruction", "state": "stub" },
+        { "title": "Troubleshooting Training Challenges", "description": "Address common training challenges and provide solutions.", "path": "instruction/troubleshooting-training-challenges/troubleshooting-training-challenges.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Creating a Cat-Friendly Kitchen Environment",
+      "description": "Learn how to design and modify your kitchen to be more appealing and stimulating for your cat.",
+      "topics": [
+        { "title": "Designing a Cat-Friendly Layout", "description": "Optimize the kitchen layout to accommodate your cat's needs.", "path": "instruction/designing-a-cat-friendly-layout/designing-a-cat-friendly-layout.md", "type": "instruction", "state": "stub" },
+        { "title": "Providing Vertical Space", "description": "Incorporate vertical elements like shelves and cat trees.", "path": "instruction/providing-vertical-space/providing-vertical-space.md", "type": "instruction", "state": "stub" },
+        { "title": "Safe Window Access", "description": "Ensure your cat has safe access to windows for observation.", "path": "instruction/safe-window-access/safe-window-access.md", "type": "instruction", "state": "stub" },
+        { "title": "Scratching Posts and Pads", "description": "Provide appropriate scratching surfaces to protect your furniture.", "path": "instruction/scratching-posts-and-pads/scratching-posts-and-pads.md", "type": "instruction", "state": "stub" },
+        { "title": "Hiding Places and Retreats", "description": "Create cozy hiding places for your cat to feel safe and secure.", "path": "instruction/hiding-places-and-retreats/hiding-places-and-retreats.md", "type": "instruction", "state": "stub" },
+        { "title": "Interactive Toys and Games", "description": "Introduce interactive toys to keep your cat entertained.", "path": "instruction/interactive-toys-and-games/interactive-toys-and-games.md", "type": "instruction", "state": "stub" },
+        { "title": "Cat Grass and Edible Plants", "description": "Offer cat grass and other safe edible plants for your cat to enjoy.", "path": "instruction/cat-grass-and-edible-plants/cat-grass-and-edible-plants.md", "type": "instruction", "state": "stub" },
+        { "title": "Minimizing Noise and Stress", "description": "Reduce noise levels and other stressors in the kitchen.", "path": "instruction/minimizing-noise-and-stress/minimizing-noise-and-stress.md", "type": "instruction", "state": "stub" },
+        { "title": "Using Pheromone Diffusers", "description": "Explore the use of pheromone diffusers to create a calming environment.", "path": "instruction/using-pheromone-diffusers/using-pheromone-diffusers.md", "type": "instruction", "state": "stub" },
+        { "title": "Creating a Litter Box Strategy", "description": "Determine the best location for a litter box relative to the kitchen.", "path": "instruction/creating-a-litter-box-strategy/creating-a-litter-box-strategy.md", "type": "instruction", "state": "stub" },
+        { "title": "Safe Appliance Usage", "description": "Train cats to stay clear of appliances.", "path": "instruction/safe-appliance-usage/safe-appliance-usage.md", "type": "instruction", "state": "stub" },
+        { "title": "DIY Cat Enrichment Projects", "description": "Build simple and engaging projects for your cat.", "path": "instruction/diy-cat-enrichment-projects/diy-cat-enrichment-projects.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Managing Multiple Cats in the Kitchen",
+      "description": "Strategies for creating a harmonious kitchen environment for households with multiple cats.",
+      "topics": [
+        { "title": "Introducing Cats to Each Other", "description": "Learn how to safely introduce new cats in the kitchen environment.", "path": "instruction/introducing-cats-to-each-other/introducing-cats-to-each-other.md", "type": "instruction", "state": "stub" },
+        { "title": "Providing Separate Resources", "description": "Ensure each cat has its own food, water, and litter box.", "path": "instruction/providing-separate-resources/providing-separate-resources.md", "type": "instruction", "state": "stub" },
+        { "title": "Managing Food Competition", "description": "Prevent food competition and aggression between cats.", "path": "instruction/managing-food-competition/managing-food-competition.md", "type": "instruction", "state": "stub" },
+        { "title": "Creating Multiple Feeding Stations", "description": "Set up multiple feeding stations to reduce stress.", "path": "instruction/creating-multiple-feeding-stations/creating-multiple-feeding-stations.md", "type": "instruction", "state": "stub" },
+        { "title": "Supervised Feeding Times", "description": "Supervise feeding times to monitor interactions.", "path": "instruction/supervised-feeding-times/supervised-feeding-times.md", "type": "instruction", "state": "stub" },
+        { "title": "Vertical Territory", "description": "Using vertical space to provide cats with distance from each other.", "path": "instruction/vertical-territory/vertical-territory.md", "type": "instruction", "state": "stub" },
+        { "title": "Understanding Feline Social Hierarchies", "description": "Learn how to understand and manage feline social hierarchies.", "path": "instruction/understanding-feline-social-hierarchies/understanding-feline-social-hierarchies.md", "type": "instruction", "state": "stub" },
+        { "title": "Recognizing and Addressing Conflict", "description": "Learn to identify and address conflict between cats.", "path": "instruction/recognizing-and-addressing-conflict/recognizing-and-addressing-conflict.md", "type": "instruction", "state": "stub" },
+        { "title": "Providing Individual Attention", "description": "Ensure each cat receives individual attention and playtime.", "path": "instruction/providing-individual-attention/providing-individual-attention.md", "type": "instruction", "state": "stub" },
+        { "title": "Rotating Toys and Enrichment", "description": "Rotate toys and enrichment to keep things interesting.", "path": "instruction/rotating-toys-and-enrichment/rotating-toys-and-enrichment.md", "type": "instruction", "state": "stub" },
+        { "title": "Using Calming Aids", "description": "Explore calming aids, such as pheromone diffusers.", "path": "instruction/using-calming-aids/using-calming-aids.md", "type": "instruction", "state": "stub" },
+        { "title": "Consulting with a Behaviorist", "description": "When to consult with a professional behaviorist.", "path": "instruction/consulting-with-a-behaviorist/consulting-with-a-behaviorist.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Dealing with Specific Kitchen-Related Behavioral Issues",
+      "description": "Address common kitchen-related behavioral problems, such as begging, stealing food, and destructive behavior.",
+      "topics": [
+        { "title": "Understanding Begging Behavior", "description": "Learn why cats beg for food and how to address it.", "path": "instruction/understanding-begging-behavior/understanding-begging-behavior.md", "type": "instruction", "state": "stub" },
+        { "title": "Preventing Food Stealing", "description": "Strategies for preventing your cat from stealing food.", "path": "instruction/preventing-food-stealing/preventing-food-stealing.md", "type": "instruction", "state": "stub" },
+        { "title": "Addressing Destructive Behavior", "description": "Identify the causes of destructive behavior and implement solutions.", "path": "instruction/addressing-destructive-behavior/addressing-destructive-behavior.md", "type": "instruction", "state": "stub" },
+        { "title": "Managing Counter Surfing", "description": "Techniques for keeping cats off kitchen counters.", "path": "instruction/managing-counter-surfing/managing-counter-surfing.md", "type": "instruction", "state": "stub" },
+        { "title": "Dealing with Obsessive Licking", "description": "Address obsessive licking of surfaces or objects.", "path": "instruction/dealing-with-obsessive-licking/dealing-with-obsessive-licking.md", "type": "instruction", "state": "stub" },
+        { "title": "Addressing Fear of Kitchen Appliances", "description": "Help your cat overcome their fear of kitchen appliances.", "path": "instruction/addressing-fear-of-kitchen-appliances/addressing-fear-of-kitchen-appliances.md", "type": "instruction", "state": "stub" },
+        { "title": "Managing Anxiety in the Kitchen", "description": "Strategies for reducing anxiety in the kitchen environment.", "path": "instruction/managing-anxiety-in-the-kitchen/managing-anxiety-in-the-kitchen.md", "type": "instruction", "state": "stub" },
+        { "title": "Addressing Nighttime Activity", "description": "Manage nighttime activity and disturbances in the kitchen.", "path": "instruction/addressing-nighttime-activity/addressing-nighttime-activity.md", "type": "instruction", "state": "stub" },
+        { "title": "Dealing with Marking Behavior", "description": "Address urine marking or scratching in the kitchen.", "path": "instruction/dealing-with-marking-behavior/dealing-with-marking-behavior.md", "type": "instruction", "state": "stub" },
+        { "title": "Managing Vocalization", "description": "Address excessive vocalization in the kitchen.", "path": "instruction/managing-vocalization/managing-vocalization.md", "type": "instruction", "state": "stub" },
+        { "title": "Using Deterrents Safely", "description": "Use deterrents safely and effectively to discourage unwanted behaviors.", "path": "instruction/using-deterrents-safely/using-deterrents-safely.md", "type": "instruction", "state": "stub" },
+        { "title": "Identifying Underlying Medical Issues", "description": "Recognize when behavioral issues may be related to underlying medical problems.", "path": "instruction/identifying-underlying-medical-issues/identifying-underlying-medical-issues.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Advanced Training Techniques and Enrichment Activities",
+      "description": "Explore advanced training techniques and enrichment activities to further enhance your cat's well-being in the kitchen.",
+      "topics": [
+        { "title": "Advanced Clicker Training", "description": "Explore advanced clicker training techniques.", "path": "instruction/advanced-clicker-training/advanced-clicker-training.md", "type": "instruction", "state": "stub" },
+        { "title": "Teaching Tricks", "description": "Teach your cat fun and engaging tricks.", "path": "instruction/teaching-tricks/teaching-tricks.md", "type": "instruction", "state": "stub" },
+        { "title": "Agility Training", "description": "Introduce agility training to your cat.", "path": "instruction/agility-training/agility-training.md", "type": "instruction", "state": "stub" },
+        { "title": "Food-Related Games", "description": "Engage your cat in food-related games and puzzles.", "path": "instruction/food-related-games/food-related-games.md", "type": "instruction", "state": "stub" },
+        { "title": "Sensory Enrichment", "description": "Provide sensory enrichment through different textures, smells, and sounds.", "path": "instruction/sensory-enrichment/sensory-enrichment.md", "type": "instruction", "state": "stub" },
+        { "title": "Interactive Feeding Toys", "description": "Introduce a variety of interactive feeding toys.", "path": "instruction/interactive-feeding-toys/interactive-feeding-toys.md", "type": "instruction", "state": "stub" },
+        { "title": "Creating a Foraging Environment", "description": "Create a foraging environment to stimulate your cat's natural hunting instincts.", "path": "instruction/creating-a-foraging-environment/creating-a-foraging-environment.md", "type": "instruction", "state": "stub" },
+        { "title": "DIY Cat Toys", "description": "Make your own cat toys using household items.", "path": "instruction/diy-cat-toys/diy-cat-toys.md", "type": "instruction", "state": "stub" },
+        { "title": "Rotating Toys and Enrichment", "description": "Regularly rotate toys and enrichment to keep your cat engaged.", "path": "instruction/rotating-toys-and-enrichment/rotating-toys-and-enrichment.md", "type": "instruction", "state": "stub" },
+        { "title": "Using Technology for Enrichment", "description": "Explore the use of technology for cat enrichment.", "path": "instruction/using-technology-for-enrichment/using-technology-for-enrichment.md", "type": "instruction", "state": "stub" },
+        { "title": "Training for Veterinary Visits", "description": "Prepare your cat for veterinary visits through training.", "path": "instruction/training-for-veterinary-visits/training-for-veterinary-visits.md", "type": "instruction", "state": "stub" },
+        { "title": "The Benefits of Clicker Training for Complex Tasks", "description": "Extending clicker training to advanced tasks.", "path": "instruction/the-benefits-of-clicker-training-for-complex-tasks/the-benefits-of-clicker-training-for-complex-tasks.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Capstone Project: Designing a Cat-Friendly Kitchen Solution",
+      "description": "Integrate all the knowledge and skills acquired throughout the course to design a comprehensive cat-friendly kitchen solution tailored to your specific needs.",
+      "topics": [
+        { "title": "Project Overview and Requirements", "description": "Review the capstone project requirements and objectives.", "path": "instruction/project-overview-and-requirements/project-overview-and-requirements.md", "type": "instruction", "state": "stub" },
+        { "title": "Assessing Your Cat's Needs", "description": "Evaluate your cat's individual needs and preferences.", "path": "instruction/assessing-your-cat's-needs/assessing-your-cat's-needs.md", "type": "instruction", "state": "stub" },
+        { "title": "Identifying Kitchen Hazards", "description": "Identify potential hazards in your kitchen environment.", "path": "instruction/identifying-kitchen-hazards/identifying-kitchen-hazards.md", "type": "instruction", "state": "stub" },
+        { "title": "Developing a Training Plan", "description": "Create a training plan to address any behavioral issues.", "path": "instruction/developing-a-training-plan/developing-a-training-plan.md", "type": "instruction", "state": "stub" },
+        { "title": "Designing an Enrichment Strategy", "description": "Develop an enrichment strategy to stimulate your cat's mind and body.", "path": "instruction/designing-an-enrichment-strategy/designing-an-enrichment-strategy.md", "type": "instruction", "state": "stub" },
+        { "title": "Creating a Safe Feeding Plan", "description": "Develop a safe and effective feeding plan.", "path": "instruction/creating-a-safe-feeding-plan/creating-a-safe-feeding-plan.md", "type": "instruction", "state": "stub" },
+        { "title": "Implementing Environmental Modifications", "description": "Implement environmental modifications to create a cat-friendly kitchen.", "path": "instruction/implementing-environmental-modifications/implementing-environmental-modifications.md", "type": "instruction", "state": "stub" },
+        { "title": "Monitoring Progress and Adjusting", "description": "Monitor your cat's progress and make adjustments as needed.", "path": "instruction/monitoring-progress-and-adjusting/monitoring-progress-and-adjusting.md", "type": "instruction", "state": "stub" },
+        { "title": "Documenting Your Project", "description": "Document your project with photos and videos.", "path": "instruction/documenting-your-project/documenting-your-project.md", "type": "instruction", "state": "stub" },
+        { "title": "Sharing Your Results", "description": "Share your results and insights with other cat owners.", "path": "instruction/sharing-your-results/sharing-your-results.md", "type": "instruction", "state": "stub" },
+        { "title": "Troubleshooting Common Issues", "description": "Address common issues that may arise during the project.", "path": "instruction/troubleshooting-common-issues/troubleshooting-common-issues.md", "type": "instruction", "state": "stub" },
+        { "title": "Final Project Submission", "description": "Submit your final project for review.", "path": "instruction/final-project-submission/final-project-submission.md", "type": "instruction", "state": "stub" }
+      ]
+    }
+  ]
+}
